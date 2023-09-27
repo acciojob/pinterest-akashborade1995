@@ -6,6 +6,7 @@
 .hero>img{
 	width:400px;
 	height:300px;
+	background-size:cover;
 }
 #para>h1{
 	width:250px;
